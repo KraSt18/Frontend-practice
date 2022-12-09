@@ -1,0 +1,11 @@
+.gallery {
+    display: flex;
+}
+
+img {
+    margin: 8px;
+}
+
+.gallery:hover {
+    cursor: all-scroll;
+}
